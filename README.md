@@ -1,8 +1,6 @@
 ## React 后台管理系统
 
-> [项目预览地址](https://ltadpoles.github.io)
 
-> [Hook 版本](https://github.com/ltadpoles/react-admin/tree/hook)
 
 基于 `React` 生态系统搭建的后台管理系统模板
 
@@ -16,9 +14,6 @@
 
 如果觉得不错或者对你有些许的帮助，欢迎 `star`，或者你有更好的实现方式、有趣的 `idea`，也欢迎留言交流 
 
-如果你想了解项目更为详细的信息，推荐阅读以下文章
-
-- [如何打造 react 后台管理系统](https://github.com/ltadpoles/web-document/blob/master/React/%E5%BF%AB%E9%80%9F%E6%89%93%E9%80%A0react%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F.md)
 
 以下为项目基本信息↓
 
@@ -81,25 +76,24 @@
 ### 使用方法
 
 ```npm
-git clone https://github.com/ltadpoles/react-admin.git
+git clone https://github.com/og-ss/react-admin.git
 
 cd react-admin
 
 // 安装依赖
-yarn
+npm install
 
 // 启动
-yarn start
+npm start
 
 // 打包
-yarn build
+npm run build
 
 ```
-
 ### 截图
 
-![image](https://raw.githubusercontent.com/ltadpoles/react-admin/master/src/assets/images/index.jpg)
+![image](https://github.com/og-ss/react-admin/blob/main/src/assets/images/index.jpg)
 
-![image](https://raw.githubusercontent.com/ltadpoles/react-admin/master/src/assets/images/form.jpg)
+![image](https://github.com/og-ss/react-admin/blob/main/src/assets/images/form.jpg)
 
-![image](https://raw.githubusercontent.com/ltadpoles/react-admin/master/src/assets/images/editor.jpg)
+![image](https://github.com/og-ss/react-admin/blob/main/src/assets/images/editor.jpg)

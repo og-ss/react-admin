@@ -321,7 +321,7 @@ class FromView extends Component {
                                         valuePropName: 'checked'
                                     })(
                                         <Checkbox>
-                                            阅读并理解 <a href='https://github.com/ltadpoles'>此协议</a>
+                                            阅读并理解 <a href='https://github.com/og-ss/react-admin.git'>此协议</a>
                                         </Checkbox>
                                     )}
                                 </Form.Item>
